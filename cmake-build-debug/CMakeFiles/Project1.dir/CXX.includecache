@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/CLion Projects/Project1/include/machine.h
+string
+-
+
+D:/C++/CLion Projects/Project1/include/money.h
+string
+-
+vector
+-
+memory
+-
+machine.h
+D:/C++/CLion Projects/Project1/include/machine.h
+
+D:/C++/CLion Projects/Project1/include/product.h
+string
+-
+vector
+-
+memory
+-
+machine.h
+D:/C++/CLion Projects/Project1/include/machine.h
+
+D:/C++/CLion Projects/Project1/src/machine.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+memory
+-
+../include/machine.h
+D:/C++/CLion Projects/Project1/include/machine.h
+
+D:/C++/CLion Projects/Project1/src/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+memory
+-
+../include/machine.h
+D:/C++/CLion Projects/Project1/include/machine.h
+../include/product.h
+D:/C++/CLion Projects/Project1/include/product.h
+../include/money.h
+D:/C++/CLion Projects/Project1/include/money.h
+
+D:/C++/CLion Projects/Project1/src/money.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+memory
+-
+../include/money.h
+D:/C++/CLion Projects/Project1/include/money.h
+
+D:/C++/CLion Projects/Project1/src/product.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+memory
+-
+../include/product.h
+D:/C++/CLion Projects/Project1/include/product.h
+

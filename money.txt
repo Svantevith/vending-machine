@@ -1,0 +1,24 @@
+1) 5 PLN
+Amount: 2
+Price: 5 PLN
+
+2) 2 PLN
+Amount: 6
+Price: 2 PLN
+
+3) 1 PLN
+Amount: 10
+Price: 1 PLN
+
+4) 50 gr
+Amount: 10
+Price: 0.5 PLN
+
+5) 20gr
+Amount: 50
+Price: 0.2 PLN
+
+6) 10gr
+Amount: 100
+Price: 0.1 PLN
+

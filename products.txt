@@ -1,0 +1,20 @@
+1) Mleko
+Amount: 7
+Price: 2.2
+
+2) Eggs
+Amount: 10
+Price: 7.6
+
+3) Water
+Amount: 10
+Price: 1.7
+
+4) Burrito
+Amount: 10
+Price: 5.9
+
+5) Bread
+Amount: 10
+Price: 2.4
+
